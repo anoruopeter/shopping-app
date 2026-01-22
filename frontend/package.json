@@ -1,7 +1,8 @@
 {
   "name": "shopping-list-frontend",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "start": "vite"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
